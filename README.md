@@ -3,4 +3,6 @@
 # Salvando alterações 
 
 
-* Realizando o teste o teste
+* Realizando o teste
+
+* git pull
