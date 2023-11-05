@@ -3,6 +3,7 @@
 # Salvando alterações 
 
 
-* Realizando o teste
-
+* git push
 * git pull
+* git fetch
+  
